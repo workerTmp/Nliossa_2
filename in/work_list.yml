@@ -1,11 +1,11 @@
 '-1':
 - json-c*llvm-symbolizer
 '0': 'null'
-'1': 'null'
+'1':
+- json-c*tokener_parse_ex_fuzzer
 '2': 'null'
 '3': 'null'
 '4': 'null'
-'5':
-- json-c*tokener_parse_ex_fuzzer
+'5': 'null'
 '6':
 - json-c
