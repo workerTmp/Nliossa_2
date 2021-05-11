@@ -1,7 +1,7 @@
-'-1': 'null'
+'-1':
+- assimp*llvm-symbolizer
 '0': 'null'
 '1':
-- assimp*llvm-symbolizer
 - assimp*assimp_fuzzer
 '2': 'null'
 '3': 'null'
