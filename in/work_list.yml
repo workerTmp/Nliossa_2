@@ -1,8 +1,8 @@
 '-1':
 - c-blosc2*decompress_frame_fuzzer
+- c-blosc2*llvm-symbolizer
 '0': 'null'
 '1':
-- c-blosc2*llvm-symbolizer
 - c-blosc2*decompress_chunk_fuzzer
 '2':
 - c-blosc2*compress_frame_fuzzer
