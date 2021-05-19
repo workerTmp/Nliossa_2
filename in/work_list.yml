@@ -5,10 +5,10 @@
 '1': 'null'
 '2': 'null'
 '3':
-- c-blosc2*compress_frame_fuzzer
 - c-blosc2*compress_chunk_fuzzer
 - c-blosc2*decompress_chunk_fuzzer
-'4': 'null'
+'4':
+- c-blosc2*compress_frame_fuzzer
 '5': 'null'
 '6':
 - c-blosc2
