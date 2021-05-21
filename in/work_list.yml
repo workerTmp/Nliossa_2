@@ -4,11 +4,11 @@
 '0': 'null'
 '1':
 - c-blosc2*compress_frame_fuzzer
+- c-blosc2*compress_chunk_fuzzer
 '2': 'null'
 '3': 'null'
 '4': 'null'
 '5':
-- c-blosc2*compress_chunk_fuzzer
 - c-blosc2*decompress_chunk_fuzzer
 '6':
 - c-blosc2
