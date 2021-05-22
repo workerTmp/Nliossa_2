@@ -1,4 +1,8 @@
+docs/h2o/h2o-fuzzer-http2.svg
+docs/h2o/h2o-fuzzer-url.svg
+docs/h2o/llvm-symbolizer.svg
 docs/h2o/notFind.svg
+docs/h2o/h2o-fuzzer-http1.svg
 docs/wavpack/llvm-symbolizer.svg
 docs/wavpack/notFind.svg
 docs/json-c/llvm-symbolizer.svg

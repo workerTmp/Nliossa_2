@@ -1,4 +1,8 @@
+[![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/h2o/h2o-fuzzer-http2.svg)](https://github.com/)
+[![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/h2o/h2o-fuzzer-url.svg)](https://github.com/)
+[![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/h2o/llvm-symbolizer.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/h2o/notFind.svg)](https://github.com/)
+[![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/h2o/h2o-fuzzer-http1.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/wavpack/llvm-symbolizer.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/wavpack/notFind.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/json-c/llvm-symbolizer.svg)](https://github.com/)
