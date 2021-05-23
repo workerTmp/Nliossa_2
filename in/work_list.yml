@@ -1,7 +1,7 @@
-'-1': 'null'
+'-1':
+- h2o*llvm-symbolizer
 '0': 'null'
 '1':
-- h2o*llvm-symbolizer
 - h2o*h2o-fuzzer-http1
 '2':
 - h2o*h2o-fuzzer-http2
