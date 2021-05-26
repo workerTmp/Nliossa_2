@@ -4,10 +4,10 @@
 '1': 'null'
 '2': 'null'
 '3': 'null'
-'4':
-- h2o*h2o-fuzzer-http1
+'4': 'null'
 '5':
 - h2o*h2o-fuzzer-http2
 - h2o*h2o-fuzzer-url
+- h2o*h2o-fuzzer-http1
 '6':
 - h2o
