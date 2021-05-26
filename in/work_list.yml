@@ -5,9 +5,9 @@
 '2': 'null'
 '3': 'null'
 '4':
-- h2o*h2o-fuzzer-url
 - h2o*h2o-fuzzer-http1
 '5':
 - h2o*h2o-fuzzer-http2
+- h2o*h2o-fuzzer-url
 '6':
 - h2o
