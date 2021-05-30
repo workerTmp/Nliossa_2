@@ -1,7 +1,7 @@
-'-1': 'null'
+'-1':
+- zeek*zeek-packet-fuzzer
 '0': 'null'
 '1':
-- zeek*zeek-packet-fuzzer
 - zeek*zeek-pop3-fuzzer
 - zeek*llvm-symbolizer
 '2': 'null'
