@@ -2,7 +2,12 @@ docs/zeek/zeek-pop3-fuzzer.svg
 docs/zeek/llvm-symbolizer.svg
 docs/zeek/notFind.svg
 docs/zeek/zeek-packet-fuzzer.svg
+docs/irssi/irssi-fuzz.svg
+docs/irssi/event-get-params-fuzz.svg
+docs/irssi/llvm-symbolizer.svg
+docs/irssi/theme-load-fuzz.svg
 docs/irssi/notFind.svg
+docs/irssi/server-fuzz.svg
 docs/assimp/llvm-symbolizer.svg
 docs/assimp/assimp_fuzzer.svg
 docs/assimp/notFind.svg
