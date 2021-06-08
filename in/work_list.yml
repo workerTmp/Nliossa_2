@@ -2,12 +2,12 @@
 - irssi*llvm-symbolizer
 '0': 'null'
 '1': 'null'
-'2':
-- irssi*theme-load-fuzz
+'2': 'null'
 '3':
 - irssi*event-get-params-fuzz
 - irssi*irssi-fuzz
 - irssi*server-fuzz
+- irssi*theme-load-fuzz
 '4': 'null'
 '5': 'null'
 '6':
