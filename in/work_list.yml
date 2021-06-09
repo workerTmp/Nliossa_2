@@ -3,12 +3,12 @@
 '0': 'null'
 '1': 'null'
 '2': 'null'
-'3':
-- irssi*theme-load-fuzz
+'3': 'null'
 '4':
 - irssi*event-get-params-fuzz
 - irssi*irssi-fuzz
 - irssi*server-fuzz
+- irssi*theme-load-fuzz
 '5': 'null'
 '6':
 - irssi
