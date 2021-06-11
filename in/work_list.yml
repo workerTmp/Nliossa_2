@@ -4,11 +4,11 @@
 '1':
 - irssi*event-get-params-fuzz
 - irssi*irssi-fuzz
+- irssi*server-fuzz
 '2': 'null'
 '3': 'null'
 '4': 'null'
 '5':
-- irssi*server-fuzz
 - irssi*theme-load-fuzz
 '6':
 - irssi
