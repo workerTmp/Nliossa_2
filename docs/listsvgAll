@@ -8,6 +8,9 @@ docs/irssi/llvm-symbolizer.svg
 docs/irssi/theme-load-fuzz.svg
 docs/irssi/notFind.svg
 docs/irssi/server-fuzz.svg
+docs/abseil-cpp/string_escape_fuzzer.svg
+docs/abseil-cpp/llvm-symbolizer.svg
+docs/abseil-cpp/string_utilities_fuzzer.svg
 docs/abseil-cpp/notFind.svg
 docs/assimp/llvm-symbolizer.svg
 docs/assimp/assimp_fuzzer.svg
