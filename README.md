@@ -8,6 +8,7 @@
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/irssi/theme-load-fuzz.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/irssi/notFind.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/irssi/server-fuzz.svg)](https://github.com/)
+[![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/abseil-cpp/notFind.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/assimp/llvm-symbolizer.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/assimp/assimp_fuzzer.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/assimp/notFind.svg)](https://github.com/)
