@@ -4,9 +4,9 @@
 '1': 'null'
 '2': 'null'
 '3': 'null'
-'4':
-- abseil-cpp*string_escape_fuzzer
+'4': 'null'
 '5':
 - abseil-cpp*string_utilities_fuzzer
+- abseil-cpp*string_escape_fuzzer
 '6':
 - abseil-cpp
