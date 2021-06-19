@@ -2,9 +2,9 @@
 - abseil-cpp*llvm-symbolizer
 '0': 'null'
 '1':
-- abseil-cpp*string_utilities_fuzzer
 - abseil-cpp*string_escape_fuzzer
-'2': 'null'
+'2':
+- abseil-cpp*string_utilities_fuzzer
 '3': 'null'
 '4': 'null'
 '5': 'null'
