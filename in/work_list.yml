@@ -1,7 +1,7 @@
-'-1': 'null'
+'-1':
+- haproxy*llvm-symbolizer
 '0': 'null'
 '1':
-- haproxy*llvm-symbolizer
 - haproxy*fuzz_cfg_parser
 - haproxy*fuzz_hpack_decode
 '2': 'null'
