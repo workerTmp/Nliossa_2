@@ -8,6 +8,7 @@ docs/irssi/theme-load-fuzz.svg
 docs/irssi/event-get-params-fuzz.svg
 docs/irssi/notFind.svg
 docs/irssi/irssi-fuzz.svg
+docs/haproxy/notFind.svg
 docs/json-c/llvm-symbolizer.svg
 docs/json-c/tokener_parse_ex_fuzzer.svg
 docs/json-c/notFind.svg
