@@ -1,7 +1,7 @@
-'-1': 'null'
+'-1':
+- git*llvm-symbolizer
 '0': 'null'
 '1':
-- git*llvm-symbolizer
 - git*fuzz-pack-headers
 - git*fuzz-pack-idx
 - git*fuzz-commit-graph
