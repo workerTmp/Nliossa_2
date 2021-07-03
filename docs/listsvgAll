@@ -1,4 +1,15 @@
+docs/sleuthkit/sleuthkit_fls_fat_fuzzer.svg
 docs/sleuthkit/notFind.svg
+docs/sleuthkit/sleuthkit_mmls_sun_fuzzer.svg
+docs/sleuthkit/sleuthkit_fls_apfs_fuzzer.svg
+docs/sleuthkit/sleuthkit_mmls_dos_fuzzer.svg
+docs/sleuthkit/sleuthkit_fls_hfs_fuzzer.svg
+docs/sleuthkit/sleuthkit_fls_ntfs_fuzzer.svg
+docs/sleuthkit/llvm-symbolizer.svg
+docs/sleuthkit/sleuthkit_fls_ext_fuzzer.svg
+docs/sleuthkit/sleuthkit_fls_iso9660_fuzzer.svg
+docs/sleuthkit/sleuthkit_mmls_gpt_fuzzer.svg
+docs/sleuthkit/sleuthkit_mmls_mac_fuzzer.svg
 docs/json-c/notFind.svg
 docs/json-c/llvm-symbolizer.svg
 docs/json-c/tokener_parse_ex_fuzzer.svg
