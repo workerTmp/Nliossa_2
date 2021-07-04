@@ -2,7 +2,6 @@
 - sleuthkit*llvm-symbolizer
 '0': 'null'
 '1':
-- sleuthkit*sleuthkit_fls_iso9660_fuzzer
 - sleuthkit*sleuthkit_fls_fat_fuzzer
 - sleuthkit*sleuthkit_fls_ntfs_fuzzer
 - sleuthkit*sleuthkit_fls_apfs_fuzzer
@@ -13,6 +12,7 @@
 - sleuthkit*sleuthkit_mmls_sun_fuzzer
 '2':
 - sleuthkit*sleuthkit_mmls_dos_fuzzer
+- sleuthkit*sleuthkit_fls_iso9660_fuzzer
 '3': 'null'
 '4': 'null'
 '5': 'null'
