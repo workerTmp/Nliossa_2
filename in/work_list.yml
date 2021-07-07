@@ -5,7 +5,6 @@
 '0': 'null'
 '1': 'null'
 '2':
-- sleuthkit*sleuthkit_mmls_dos_fuzzer
 - sleuthkit*sleuthkit_fls_iso9660_fuzzer
 - sleuthkit*sleuthkit_fls_fat_fuzzer
 - sleuthkit*sleuthkit_fls_apfs_fuzzer
@@ -13,7 +12,8 @@
 - sleuthkit*sleuthkit_fls_hfs_fuzzer
 - sleuthkit*sleuthkit_mmls_mac_fuzzer
 - sleuthkit*sleuthkit_mmls_sun_fuzzer
-'3': 'null'
+'3':
+- sleuthkit*sleuthkit_mmls_dos_fuzzer
 '4': 'null'
 '5': 'null'
 '6':
