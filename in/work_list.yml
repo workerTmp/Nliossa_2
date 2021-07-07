@@ -3,8 +3,7 @@
 - sleuthkit*sleuthkit_fls_ntfs_fuzzer
 - sleuthkit*sleuthkit_fls_ext_fuzzer
 '0': 'null'
-'1':
-- sleuthkit*sleuthkit_mmls_sun_fuzzer
+'1': 'null'
 '2':
 - sleuthkit*sleuthkit_mmls_dos_fuzzer
 - sleuthkit*sleuthkit_fls_iso9660_fuzzer
@@ -13,6 +12,7 @@
 - sleuthkit*sleuthkit_mmls_gpt_fuzzer
 - sleuthkit*sleuthkit_fls_hfs_fuzzer
 - sleuthkit*sleuthkit_mmls_mac_fuzzer
+- sleuthkit*sleuthkit_mmls_sun_fuzzer
 '3': 'null'
 '4': 'null'
 '5': 'null'
