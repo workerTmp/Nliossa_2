@@ -19,6 +19,7 @@
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/h2o/h2o-fuzzer-url.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/h2o/h2o-fuzzer-http2.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/clamav/notFind.svg)](https://github.com/)
+[![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/clamav/llvm-symbolizer.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/git/notFind.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/git/fuzz-pack-idx.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/git/llvm-symbolizer.svg)](https://github.com/)
