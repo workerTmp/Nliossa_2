@@ -18,6 +18,7 @@ docs/h2o/h2o-fuzzer-http1.svg
 docs/h2o/llvm-symbolizer.svg
 docs/h2o/h2o-fuzzer-url.svg
 docs/h2o/h2o-fuzzer-http2.svg
+docs/clamav/notFind.svg
 docs/git/notFind.svg
 docs/git/fuzz-pack-idx.svg
 docs/git/llvm-symbolizer.svg
