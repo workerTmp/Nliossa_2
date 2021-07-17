@@ -1,9 +1,11 @@
 '-1': 'null'
-'0':
-- igraph
-'1': 'null'
+'0': 'null'
+'1':
+- igraph*llvm-symbolizer
+- igraph*read_gml_fuzzer
 '2': 'null'
 '3': 'null'
 '4': 'null'
 '5': 'null'
-'6': 'null'
+'6':
+- igraph
