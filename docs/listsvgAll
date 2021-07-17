@@ -54,3 +54,4 @@ docs/c-blosc2/compress_chunk_fuzzer.svg
 docs/c-blosc2/decompress_frame_fuzzer.svg
 docs/c-blosc2/llvm-symbolizer.svg
 docs/c-blosc2/decompress_chunk_fuzzer.svg
+docs/igraph/notFind.svg
