@@ -54,4 +54,6 @@
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/c-blosc2/decompress_frame_fuzzer.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/c-blosc2/llvm-symbolizer.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/c-blosc2/decompress_chunk_fuzzer.svg)](https://github.com/)
+[![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/igraph/read_gml_fuzzer.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/igraph/notFind.svg)](https://github.com/)
+[![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/igraph/llvm-symbolizer.svg)](https://github.com/)
