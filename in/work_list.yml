@@ -1,11 +1,11 @@
 '-1':
 - igraph*llvm-symbolizer
 '0': 'null'
-'1': 'null'
+'1':
+- igraph*read_gml_fuzzer
 '2': 'null'
 '3': 'null'
 '4': 'null'
-'5':
-- igraph*read_gml_fuzzer
+'5': 'null'
 '6':
 - igraph
