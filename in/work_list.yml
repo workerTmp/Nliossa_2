@@ -1,11 +1,11 @@
 '-1': 'null'
 '0': 'null'
 '1':
-- git*fuzz-pack-idx
 - git*fuzz-pack-headers
 - git*fuzz-commit-graph
 - git*llvm-symbolizer
-'2': 'null'
+'2':
+- git*fuzz-pack-idx
 '3': 'null'
 '4': 'null'
 '5': 'null'
