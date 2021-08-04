@@ -5,9 +5,9 @@
 '2': 'null'
 '3': 'null'
 '4':
-- git*fuzz-pack-idx
 - git*fuzz-pack-headers
 - git*fuzz-commit-graph
-'5': 'null'
+'5':
+- git*fuzz-pack-idx
 '6':
 - git
