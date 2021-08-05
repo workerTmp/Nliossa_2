@@ -3,11 +3,11 @@
 '0': 'null'
 '1':
 - git*fuzz-pack-idx
+- git*fuzz-pack-headers
 '2': 'null'
 '3': 'null'
 '4': 'null'
 '5':
-- git*fuzz-pack-headers
 - git*fuzz-commit-graph
 '6':
 - git
