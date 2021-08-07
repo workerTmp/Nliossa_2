@@ -3,6 +3,7 @@ docs/git/llvm-symbolizer.svg
 docs/git/fuzz-pack-headers.svg
 docs/git/fuzz-commit-graph.svg
 docs/git/fuzz-pack-idx.svg
+docs/c-blosc/notFind.svg
 docs/wavpack/notFind.svg
 docs/wavpack/llvm-symbolizer.svg
 docs/c-blosc2/notFind.svg

@@ -3,6 +3,7 @@
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/git/fuzz-pack-headers.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/git/fuzz-commit-graph.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/git/fuzz-pack-idx.svg)](https://github.com/)
+[![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/c-blosc/notFind.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/wavpack/notFind.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/wavpack/llvm-symbolizer.svg)](https://github.com/)
 [![Fuzzing Status Local](https://workerTmp.github.io/Nliossa_2/c-blosc2/notFind.svg)](https://github.com/)
