@@ -1,10 +1,10 @@
 '-1': 'null'
 '0': 'null'
 '1':
-- c-blosc*compress_fuzzer
 - c-blosc*llvm-symbolizer
 '2':
 - c-blosc*decompress_fuzzer
+- c-blosc*compress_fuzzer
 '3': 'null'
 '4': 'null'
 '5': 'null'
