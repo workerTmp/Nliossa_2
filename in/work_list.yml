@@ -3,10 +3,10 @@
 '0': 'null'
 '1':
 - c-blosc*decompress_fuzzer
+- c-blosc*compress_fuzzer
 '2': 'null'
 '3': 'null'
 '4': 'null'
-'5':
-- c-blosc*compress_fuzzer
+'5': 'null'
 '6':
 - c-blosc
