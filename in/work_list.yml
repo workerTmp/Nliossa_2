@@ -1,9 +1,9 @@
 '-1': 'null'
 '0': 'null'
 '1':
-- json-c*tokener_parse_ex_fuzzer
 - json-c*llvm-symbolizer
-'2': 'null'
+'2':
+- json-c*tokener_parse_ex_fuzzer
 '3': 'null'
 '4': 'null'
 '5': 'null'
